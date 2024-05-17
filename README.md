@@ -2,6 +2,6 @@ O Dgt Server é um servidor semelhante ao Apache, desenvolvido com o componente 
 
 The Dgt Server is a server similar to Apache, built using the Delphi's IdHTTPServer component. Its main purpose is to provide a simple server solution with minimal configuration required. This project can be easily adapted to create various web applications and custom integrations. For example, take a look at this project: https://github.com/luis-marcelo-fonseca/Xuxuzinho, which also utilizes the same server mechanism.
 
-![Dgt Server]([https://github.com/Digitalwerbr/Xuxuzinho/blob/main/Xuxuzinho.png](https://github.com/luis-marcelo-fonseca/dgtserver/blob/main/1.png))
+![Dgt Server](https://github.com/luis-marcelo-fonseca/dgtserver/blob/main/1.png)
 
-![Dgt Server]([https://github.com/Digitalwerbr/Xuxuzinho/blob/main/Xuxuzinho.png](https://github.com/luis-marcelo-fonseca/dgtserver/blob/main/2.png))
+![Dgt Server](https://github.com/luis-marcelo-fonseca/dgtserver/blob/main/2.png)
