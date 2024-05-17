@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/02 18:13:21.910.pas,C:\Users\Administrador\Desktop\projetos delphi\servidor\Unit1.pas=C:\Users\Administrador\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/02 18:13:21.910.dfm,C:\Users\Administrador\Desktop\projetos delphi\servidor\Unit1.dfm=C:\Users\Administrador\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/09/02 18:13:22.642.dproj,C:\Users\Administrador\Desktop\projetos delphi\servidor\Project1.dproj=C:\Users\Administrador\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/09/04 15:15:31.598.pas,C:\Users\Administrador\Desktop\projetos delphi\servidor\Unit2.pas=</Transaction>
+    <Transaction>2021/09/04 15:15:31.610.dfm,C:\Users\Administrador\Desktop\projetos delphi\servidor\Unit2.dfm=</Transaction>
+    <Transaction>2021/09/07 20:02:22.290.dll,C:\Users\Administrador\Desktop\projetos delphi\flywer server\ssleay32.dll=</Transaction>
+    <Transaction>2021/09/07 20:02:22.321.dll,C:\Users\Administrador\Desktop\projetos delphi\flywer server\libeay32.dll=</Transaction>
+    <Transaction>2021/09/07 20:38:26.476.dll,C:\Users\Administrador\Desktop\projetos delphi\flywer server\ssleay32.dll=</Transaction>
+    <Transaction>2021/09/07 20:38:26.480.dll,C:\Users\Administrador\Desktop\projetos delphi\flywer server\libeay32.dll=</Transaction>
+    <Transaction>2021/09/11 15:02:29.687.ico,C:\Users\Administrador\Desktop\projetos delphi\servidor\raiz\favicon.ico=</Transaction>
+    <Transaction>2021/09/11 15:04:23.876.wav,C:\Users\Administrador\Desktop\projetos delphi\flywer server\alarme.wav=</Transaction>
+    <Transaction>2024/05/17 15:05:07.584,C:\Users\Marcelo\Downloads\projetos delphi\flywer server\Unit4.pas=</Transaction>
+    <Transaction>2024/05/17 15:24:17.412,C:\Users\Marcelo\Desktop\dgt server\Project1.dproj=C:\Users\Marcelo\Downloads\projetos delphi\flywer server\Project1.dproj</Transaction>
+    <Transaction>2024/05/17 15:24:27.864,C:\Users\Marcelo\Desktop\dgt server\Unit1.dfm=C:\Users\Marcelo\Downloads\projetos delphi\flywer server\Unit1.dfm</Transaction>
+    <Transaction>2024/05/17 15:24:27.864,C:\Users\Marcelo\Desktop\dgt server\Unit1.pas=C:\Users\Marcelo\Downloads\projetos delphi\flywer server\Unit1.pas</Transaction>
+    <Transaction>2024/05/17 15:24:39.312,C:\Users\Marcelo\Desktop\dgt server\Unit3.pas=C:\Users\Marcelo\Downloads\projetos delphi\flywer server\Unit3.pas</Transaction>
+    <Transaction>2024/05/17 15:24:39.312,C:\Users\Marcelo\Desktop\dgt server\Unit3.dfm=C:\Users\Marcelo\Downloads\projetos delphi\flywer server\Unit3.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\..\Marcelo"/>
+    <File Path="..\..\Downloads"/>
+    <File Path="..\..\Downloads\projetos delphi"/>
+    <File Path="..\..\Downloads\projetos delphi\flywer server"/>
+    <File Path="..\..\Downloads\projetos delphi\flywer server\raiz"/>
+    <File Path="..\..\Downloads\projetos delphi\flywer server\raiz\favicon.ico"/>
+    <File Path="..\..\Downloads\projetos delphi\flywer server\libeay32.dll"/>
+    <File Path="..\..\Downloads\projetos delphi\flywer server\ssleay32.dll"/>
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit3.pas"/>
+    <File Path="Unit3.dfm"/>
+  </ProjectSortOrder>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
